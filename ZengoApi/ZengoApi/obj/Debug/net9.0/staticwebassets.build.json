@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PwEEFOOGI6THydaHYm5Tb8Ib5Y2NxVngMloy5vTCzRc=",
+  "Source": "ZengoApi",
+  "BasePath": "_content/ZengoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
